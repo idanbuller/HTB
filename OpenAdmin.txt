@@ -27,3 +27,9 @@ python john2ssh sshkey > id_rda.hash ->
 john id_rda.hash --wordlist=/usr/share/wordlists/rockyou.txt ->
 joanna:bloodninjas
 
+
+Links - 
+https://www.exploit-db.com/exploits/47691
+https://github.com/amriunix/ona-rce
+https://www.abhizer.com/crack-ssh-with-john/
+https://www.cyberciti.biz/faq/force-ssh-client-to-use-given-private-key-identity-file/
